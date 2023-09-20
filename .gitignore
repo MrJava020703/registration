@@ -1,0 +1,7 @@
+# Include PHP files
+*.php
+
+# Exclude specific PHP files and directories
+config.php
+vendor/
+
